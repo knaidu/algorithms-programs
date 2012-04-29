@@ -1,9 +1,7 @@
-# holman.github.com
+# algorithms-programs
 
-Hi. This is a [Jekyll](http://github.com/mojombo/jekyll)-powered blog hosted on [GitHub Pages](http://pages.github.com/) for [zachholman.com](http://zachholman.com). Feel free to browse the source, fork, [ask me questions](http://twitter.com/holman), and post your own compelling blog posts. Because sharing is caring. We're developers, after all.
+A repo for algorithms and programs I find interesting, including interview questions, puzzles, math questions etc.
 
 ## The design
 
-Here's the deal. This is my blog, and there's certainly a distinctive look and feel associated with it. I'd appreciate it if you changed your own fork. If you'll notice, there's no license attached to this project, so technically I maintain the rights associated with this project.
-
-So be cool, change things up, find your own voice. It'll work better for you in the long run, too.
+This is forked from holman.github.com. All look and feel is his creation and belongs to him. I'll eventually get around to tweaking it to my taste. But first things first, algorithms and programs.
