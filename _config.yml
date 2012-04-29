@@ -2,6 +2,6 @@ markdown: rdiscount
 pygments: true
 permalink: /posts/:title
 auto: true
-baseurl: /
+baseurl: algorithms-programs
 rdiscount:
   extensions: [smart]
