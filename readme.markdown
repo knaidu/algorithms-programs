@@ -1,4 +1,4 @@
-# holman.github.com
+# algorithms-programs
 
 Hi. This is a [Jekyll](http://github.com/mojombo/jekyll)-powered blog hosted on [GitHub Pages](http://pages.github.com/). Its a repository of algorithms and programs that I come across including interview questions, programing puzzles, math questions etc.
 
