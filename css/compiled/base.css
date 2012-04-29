@@ -20,7 +20,7 @@ a {
   left: 15px;
   top: 15px;
   width: 80px;
-  font-family: Helvetica, sans-serif; }
+  font-family: "Palatino Linotype", sans-serif; }
   .sidebar a {
     text-decoration: none; }
   .sidebar img {
@@ -77,7 +77,7 @@ a {
   margin-bottom: 50px; }
   .content h1 {
     color: #333;
-    font-family: "Sorts Mill Goudy", Helvetica, sans-serif;
+    font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #ccc; }
   .content h1 a {
@@ -85,7 +85,7 @@ a {
     text-decoration: none; }
   .content h2 {
     color: #333;
-    font-family: "Sorts Mill Goudy", Helvetica, sans-serif;
+    font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #ccc; }
   .content h2 a {
@@ -93,7 +93,7 @@ a {
     text-decoration: none; }
   .content h3 {
     color: #333;
-    font-family: "Sorts Mill Goudy", Helvetica, sans-serif;
+    font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #ccc; }
   .content h3 a {
@@ -101,7 +101,7 @@ a {
     text-decoration: none; }
   .content h4 {
     color: #333;
-    font-family: "Sorts Mill Goudy", Helvetica, sans-serif;
+    font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #ccc; }
   .content h4 a {
@@ -154,7 +154,7 @@ a {
       font-style: normal; }
   .content .byline {
     margin-bottom: 17px;
-    font-family: "Sorts Mill Goudy", Helvetica, sans-serif;
+    font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
     padding-left: 0px;
     font-size: 17px;
     color: #777; }
@@ -168,7 +168,7 @@ a {
   .content .listing {
     margin: 10px 0 0 0;
     padding: 0;
-    font-family: Helvetica, sans-serif; }
+    font-family: "Palatino Linotype", sans-serif; }
     .content .listing ul {
       margin: 0;
       padding: 0; }
@@ -188,7 +188,7 @@ a {
   .content .meta {
     margin: 30px 0;
     padding: 10px 0;
-    font-family: Helvetica, sans-serif; }
+    font-family: "Palatino Linotype", sans-serif; }
     .content .meta p {
       line-height: 1.4;
       font-size: 14px;
@@ -207,7 +207,7 @@ a {
     margin-right: 10px;
     padding: 5px 15px;
     border: 1px solid #000;
-    font-family: Helvetica, sans-serif;
+    font-family: "Palatino Linotype", sans-serif;
     font-size: 12px;
     font-weight: bold; }
   .content .talk-design .color .white {
