@@ -3,10 +3,10 @@ $mid-grey:   #777777;
 $light-grey: #eeeeee;
 $blue:       #227CE8;
 
-$serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$serif: "Sorts Mill Goudy", "Book Antiqua", Palatino, serif;
 $sans: Helvetica, sans-serif;
-$headline: 'Yanone Kaffeesatz', $sans;
-
+$headline: 'Sorts Mill Goudy', $sans;
+$name: 'Sorts Mill Goudy';
 * {
 }
 
@@ -15,6 +15,19 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
 }
+
+.name {
+  a {
+	padding-left: 20px;
+	padding-top: 20px;
+	font-weight: bold;
+    color:$mid-grey;
+	text-decoration: none;
+	font-family: $name;
+	font-size: 36px;
+  } 
+}
+
 
 a {
   color: $blue;
@@ -218,7 +231,7 @@ a {
     }
 
     li {
-      font-size: 13px;
+      font-size: 15px;
       list-style: none;
       padding: 5px 3px;
       margin: 0;
