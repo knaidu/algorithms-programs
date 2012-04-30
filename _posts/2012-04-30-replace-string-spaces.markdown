@@ -26,8 +26,9 @@ OR
 ## Code
 {% highlight cpp %}
 
+// returns 1 when string replace is successful, invalid rcode otherwise
 int replaceSpaces(std::string& s, std::string& r) {
-	// Validate s, NULL,
+	// Validate s, NULL, return invalid code
 	
 	// Replace
 	for(int i=0; i<s.length(); i++){
@@ -36,6 +37,16 @@ int replaceSpaces(std::string& s, std::string& r) {
 		}
 		else r+=s[i];
 	}
+	return 1;
+}
+
+void main(){
+	std::string s = "Hello World";
+	std::string sResult = "Hello%20World";
+	std::string r;
+	
+	replaceSpaces(s, r);
+	assert(compare(r, sResult) == 0);
 }
 
 {% endhighlight %}
