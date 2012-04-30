@@ -23,6 +23,7 @@ Input
 
 {% highlight cpp %}
 
+// returns 1 when successful, else returns invalid rcode
 int rotateMatrix90(int a[][], int n){
 	// validate n, and return invalid rcode
 	
