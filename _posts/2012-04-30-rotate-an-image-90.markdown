@@ -18,6 +18,7 @@ Input
 
 ## Algorithm
 1. Rotating by 90 degrees is same as mirroring the matrix along the vertical axis. 2. Then mirroring it along the right diagonal (minor axis).
+3. Swap elements along row, then swap top left half of matrix.
 
 ## Code
 
