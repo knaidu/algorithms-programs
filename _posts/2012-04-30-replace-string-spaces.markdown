@@ -1,0 +1,45 @@
+---
+layout: post
+title: Replace all spaces in a string with %20
+---
+
+## Problem
+
+Replace all spaces in a string with %20
+
+## Example
+
+Input: "Hello, How are you doing?"
+
+Output: "Hello,%20How%20are%20you%20doing?" 
+
+## Algorithm
+1. Need to parse the string 2 times
+2. First pass: count number of spaces, to determine new string length
+3. Second pass: parse string from right to left, for every space insert %20 in the new string, if not a space copy the character as is.
+
+OR 
+
+1. Use string class, parse left to right, concat %20 when you encounter a " " in given string.
+2. Return the result string
+
+## Code
+{% highlight cpp %}
+
+int replaceSpaces(std::string& s, std::string& r) {
+	// Validate s, NULL,
+	
+	// Replace
+	for(int i=0; i<s.length(); i++){
+		if(compare(s[i], " ") == 0) {
+			r+="%20";
+		}
+		else r+=s[i];
+	}
+}
+
+{% endhighlight %}
+
+## Time complexity
+
+O(n), since we are parsing the string just once.
