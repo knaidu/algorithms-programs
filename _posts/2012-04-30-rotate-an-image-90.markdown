@@ -10,10 +10,11 @@ Given an image represented by a N X N matrix, rotate it by 90 degrees. Do this i
 ## Example
 
 Input
-
+{% highlight cpp %}
    123      741
    456  ==> 852
    789      963
+{% endighlight %}
 
 ## Algorithm
 
