@@ -6,9 +6,8 @@
   .sidebar img {
     display: none; }
   .sidebar .name {
-    display: inline; }
-    .sidebar .name #zach, .sidebar .name #holman {
-      font-size: 25px; }
+    display: inline;
+    font-size: 25px; }
   .sidebar .meta {
     display: none; }
   .sidebar ul {
