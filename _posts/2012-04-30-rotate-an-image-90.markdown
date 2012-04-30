@@ -11,11 +11,9 @@ Given an image represented by a N X N matrix, rotate it by 90 degrees. Do this i
 
 Input
 
-123      741
-
-456  ==> 852
-
-789      963
+   123      741
+   456  ==> 852
+   789      963
 
 ## Algorithm
 
