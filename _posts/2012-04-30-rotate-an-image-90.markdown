@@ -14,7 +14,7 @@ Input
    123      741
    456  ==> 852
    789      963
-{% endighlight %}
+{% endhighlight %}
 
 ## Algorithm
 
