@@ -18,8 +18,8 @@ a {
 .sidebar {
   position: fixed;
   left: 15px;
-  top: 15px;
-  width: 80px;
+  top: 40px;
+  width: 400px;
   font-family: "Palatino Linotype", sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -68,8 +68,7 @@ a {
       margin: 0;
       padding: 0; }
     .sidebar .sections li {
-      list-style: none;
-      margin-bottom: 7px; }
+      list-style: none; }
 
 .content {
   margin-left: 110px;
