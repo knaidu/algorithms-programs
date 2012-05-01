@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Write code to remove duplicates from a linked list
+title: Remove duplicates from a linked list
 ---
 
 ## Problem
-Remove duplicates from a linked list
+Write code to remove duplicates from a linked list
 
 ## Example
 
