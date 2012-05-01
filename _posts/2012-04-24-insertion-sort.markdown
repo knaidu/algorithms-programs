@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Implement insertion sort
+categories: sorting arrays
 ---
 
 ## Problem
