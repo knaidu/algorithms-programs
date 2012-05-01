@@ -4,7 +4,7 @@ title: Write code to remove duplicates from a linked list
 ---
 
 ## Problem
-Write code to remove duplicates from a linked list
+Remove duplicates from a linked list
 
 ## Example
 
