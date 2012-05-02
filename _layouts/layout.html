@@ -35,6 +35,12 @@
 	</section>
   
   <section class="sidebar">
+  
+    <ul>
+      {% for category in site.categories %}
+        <li><a href="#{{ category | first }}">{{ category | first }}</a></li>
+      {% endfor %}
+    </ul>
     
   </section>
 
