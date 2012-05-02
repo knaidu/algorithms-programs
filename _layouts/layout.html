@@ -35,13 +35,15 @@
 	</section>
   
   <section class="sidebar">
-  
-    <ul>
-      {% for category in site.categories %}
-        <li><a href="/algorithms-programs/posts/category-test/#{{ category | first }}">{{ category | first }}</a></li>
-      {% endfor %}
-    </ul>
-    
+    <section class="sections">
+      <ul>
+        {% for category in site.categories %}
+          <li>
+            <a href="/algorithms-programs/posts/category-test/#{{ category | first }}">@{{ category | first }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>   
   </section>
 
   {{ content }}
