@@ -3,8 +3,6 @@ layout: post
 title: Sorted by tags
 ---
 
-## Articles by Tags
-
 <ul>
 {% for category in site.categories %}
   <h2><a name="{{ category | first }}">{{ category | first }}</a></h2>
