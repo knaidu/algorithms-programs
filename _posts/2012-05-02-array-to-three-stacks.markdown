@@ -9,6 +9,7 @@ Given an array, how would you implement 3 stacks?
 
 ## Algorithm
 We have 2 options
+
 - Partition the array into 3 portions, and maintain 3 top pointers for each array and index them as required
 - Logically split the array into 3 portions, using modulo operator decide where the next element should be placed.
 
