@@ -23,7 +23,7 @@ class StackModified {
 	int pop();
 	int push(int);
 	int min();
-}
+};
 
 int StackModified::pop(){
 	int value = s.pop();

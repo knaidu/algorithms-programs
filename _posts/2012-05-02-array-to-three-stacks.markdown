@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use an array to implement 3 stacks
+title: Implement 3 stacks, using a single array
 categories: arrays stacks careercup
 ---
 
