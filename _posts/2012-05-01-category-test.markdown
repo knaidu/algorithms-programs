@@ -7,7 +7,7 @@ title: Sorted by tags
 
 <ul>
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+  <h2><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
@@ -15,11 +15,6 @@ title: Sorted by tags
       {% endfor %}
     {% endfor %}
     </ul>
-  </li>
+  </h2>
 {% endfor %}
 </ul>
-
-{% for post in site.categories.quickstart %}
-<!-- h2><a href=".{{ post.url }}">{{ post.title }}</a></h2 -->
-<!-- {{ post.content }} -->
-{% endfor %}
