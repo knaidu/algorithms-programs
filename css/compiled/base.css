@@ -68,7 +68,8 @@ a {
       margin: 0;
       padding: 0; }
     .sidebar .sections li {
-      list-style: none; }
+      list-style: none; 
+      margin-bottom: 7px;}
 
 .content {
   margin-left: 110px;
