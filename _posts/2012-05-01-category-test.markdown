@@ -15,7 +15,7 @@ title: Fastr Blog
     <ul>
     {% for posts in category %}
       {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a href="/algorithms-programs{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     {% endfor %}
     </ul>
