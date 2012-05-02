@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Fastr Blog
 ---
 <h2>Categories:</h2>
