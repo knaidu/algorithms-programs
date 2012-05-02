@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Check if linked list is a palindrome
+categories: linked-list careercup
 ---
 
 ## Problem

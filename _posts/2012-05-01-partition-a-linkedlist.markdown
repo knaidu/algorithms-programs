@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Partition a linked list around element x
+categories: linked-list careercup
 ---
 
 ## Problem

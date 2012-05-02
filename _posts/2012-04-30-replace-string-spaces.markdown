@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Replace all spaces in a string with %20
+categories: strings careercup
 ---
 
 ## Problem

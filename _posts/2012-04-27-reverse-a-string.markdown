@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reverse a string
+categories: strings careercup
 ---
 
 ## Problem 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Make entire row and column 0, if an element in matrix is 0.
+categories: arrays matrix careercup
 ---
 
 ## Problem

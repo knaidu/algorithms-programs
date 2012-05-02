@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Check if a string is a permutation of another
+categories: strings careercup
 ---
 
 

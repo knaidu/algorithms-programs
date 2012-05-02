@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Find the kth to last element of a linked list
+categories: linked-list careercup
 ---
 
 ## Problem
