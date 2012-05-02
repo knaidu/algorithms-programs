@@ -5,6 +5,7 @@ title: Sorted by tags
 
 ## Articles by Tags
 
+<ul>
 {% for category in site.categories %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
@@ -16,6 +17,7 @@ title: Sorted by tags
     </ul>
   </li>
 {% endfor %}
+</ul>
 
 {% for post in site.categories.quickstart %}
 <!-- h2><a href=".{{ post.url }}">{{ post.title }}</a></h2 -->
