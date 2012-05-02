@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Find min element in stack int O(1)
+title: Find min element in stack in O(1)
 categories: stacks careercup
 ---
 
