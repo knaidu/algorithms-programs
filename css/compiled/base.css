@@ -10,8 +10,7 @@ body {
   color: #777777;
   text-decoration: none;
   font-family: "Sorts Mill Goudy";
-  font-size: 36px;
-  display: inline; }
+  font-size: 36px; }
 
 a {
   color: #227ce8; }
@@ -57,7 +56,7 @@ a {
     letter-spacing: 1px; }
   .sidebar .sections {
     margin: 25px 0 0 -15px;
-    font-family: "Sorts Mill Goudy", "Book Antiqua", Palatino, serif; }
+    font-family: "Helvetica"; }
     .sidebar .sections a {
       background-color: #000;
       padding: 3px 5px;
@@ -71,7 +70,7 @@ a {
       padding: 0; }
     .sidebar .sections li {
       list-style: none;
-      margin-bottom: 7px; }
+      margin-bottom: 8px; }
 
 .content {
   margin-left: 110px;
