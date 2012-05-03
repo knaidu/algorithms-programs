@@ -36,10 +36,10 @@
   
   <section class="sidebar">
     <section class="sections">
-      <ul>
+      <ul><br>
         {% for category in site.categories %}
           <li>
-            <a href="/algorithms-programs/posts/category-test/#{{ category | first }}">@{{ category | first }}</a>
+            <a href="/algorithms-programs/posts/category-test/#{{ category | first }}">{{ category | first }}</a>
           </li>
         {% endfor %}
       </ul>
