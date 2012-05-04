@@ -20,7 +20,6 @@ body {
 .name {
   a {
 	padding-left: 20px;
-	padding-top: 20px;
 	font-weight: bold;
     color:$mid-grey;
 	text-decoration: none;
@@ -39,6 +38,7 @@ a {
   position: inherit;
   width: inherit;
   margin: 0;
+  padding: 25px;
   font-family: $sans;
 
   a {
@@ -93,7 +93,7 @@ a {
   }
 
   .sections {
-    margin: 25px 0 0 -15px;
+    margin: 5px 0 0 -15px;
     font-family: $helvetica;
 
     a {
