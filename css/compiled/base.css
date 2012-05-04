@@ -37,7 +37,7 @@ a {
       opacity: 1; }
   .sidebar .name {
     text-transform: uppercase;
-    margin: 10px 0 20px 0; }
+    margin: 10px 0 10px 0; }
     .sidebar .name #zach {
       padding-left: 1px;
       font-size: 23px;
@@ -71,7 +71,7 @@ a {
       padding: 0; }
     .sidebar .sections li {
       list-style: none;
-      margin-bottom: 12px;
+      margin-left: 5px;
       display: inline; }
 
 .content {
