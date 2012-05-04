@@ -16,6 +16,7 @@ a {
   color: #227ce8; }
 
 .sidebar {
+  position: fixed;
   left: 15px;
   top: 40px;
   width: 100px;
