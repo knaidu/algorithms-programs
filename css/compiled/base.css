@@ -18,9 +18,9 @@ a {
 
 .sidebar {
   position: inherit;
-  left: 15px;
-  top: 40px;
-  width: 100px;
+  width: inherit;
+  margin: 0;
+  padding: 25px;
   font-family: "Palatino Linotype", sans-serif; }
   .sidebar a {
     text-decoration: none; }
