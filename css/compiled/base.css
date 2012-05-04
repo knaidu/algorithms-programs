@@ -20,7 +20,6 @@ a {
   position: inherit;
   width: inherit;
   margin: 0;
-  padding: 25px;
   font-family: "Palatino Linotype", sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -37,7 +36,7 @@ a {
       opacity: 1; }
   .sidebar .name {
     text-transform: uppercase;
-    margin: 10px 0 10px 0; }
+    margin: 0 0 0 0; }
     .sidebar .name #zach {
       padding-left: 1px;
       font-size: 23px;
