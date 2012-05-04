@@ -10,13 +10,14 @@ body {
   color: #777777;
   text-decoration: none;
   font-family: "Sorts Mill Goudy";
-  font-size: 36px; }
+  font-size: 36px;
+  display: inline; }
 
 a {
   color: #227ce8; }
 
 .sidebar {
-  position: fixed;
+  position: inherit;
   left: 15px;
   top: 40px;
   width: 100px;
