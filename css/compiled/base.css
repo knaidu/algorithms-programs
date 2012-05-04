@@ -4,6 +4,7 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 .name a {
+  margin: 0 10px 10px 0;
   padding-left: 20px;
   font-weight: bold;
   color: #777777;
@@ -55,7 +56,7 @@ a {
     padding-left: 2px;
     letter-spacing: 1px; }
   .sidebar .sections {
-    margin: -10px -5px -5px 0;
+    margin: 0;
     font-family: "Helvetica"; }
     .sidebar .sections a {
       background-color: #000;
