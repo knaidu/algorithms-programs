@@ -71,7 +71,8 @@ a {
       padding: 0; }
     .sidebar .sections li {
       list-style: none;
-      margin-bottom: 12px; }
+      margin-bottom: 12px;
+      display: inline; }
 
 .content {
   margin-left: 110px;
