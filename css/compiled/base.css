@@ -55,7 +55,7 @@ a {
     padding-left: 2px;
     letter-spacing: 1px; }
   .sidebar .sections {
-    margin: 0;
+    margin: -20px;
     font-family: "Helvetica"; }
     .sidebar .sections a {
       background-color: #000;
