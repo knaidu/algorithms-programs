@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sorted by tags
+title: ********** Sorted by tags **********
 ---
 
 <ul>
