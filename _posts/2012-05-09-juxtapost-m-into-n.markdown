@@ -13,6 +13,7 @@ Given two 32-bit numbers, m and n, insert m into n, at bits i to j. Assume that 
 - Merge m into n
 
 ## Code
+{% highlight cpp %}
 
 int updateBits(int m, int n, int i, int j) {
 	// Create mask for clearing bits, 
@@ -39,3 +40,5 @@ int updateBits(int m, int n, int i, int j) {
 	
 	return n;
 }
+
+{%endhighlight%}

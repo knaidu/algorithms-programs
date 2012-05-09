@@ -17,6 +17,8 @@ Give a decimal fraction, convert it into binary
 - continue this process until the num becomes 0
 
 ## Code
+{% highlight cpp%}
+
 std::string convertToBinary(double num) {
 	if(num >1 || num <0) return "ERROR";
 	std::string result = "0.";
@@ -32,3 +34,4 @@ std::string convertToBinary(double num) {
 	}
 	return result;
 }
+{% endhighlight %}

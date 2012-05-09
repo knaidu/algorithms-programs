@@ -23,6 +23,7 @@ Next smallest number
 - Now insert back 0s from 0 to p, this is done to make the number as high as possible but still keeping it smaller than current number
 
 ## Code
+{% highlight cpp %}
 int nextLargest(int n) {
 	int c= n;
 	int c0 = 0;
@@ -54,3 +55,5 @@ int nextLargest(int n) {
 	
 	return n;
 }
+
+{% endhighlight %}
