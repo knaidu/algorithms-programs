@@ -1,0 +1,64 @@
+---
+layout: post
+title: Find all paths that sum to a given value
+categories: trees recursion careercup
+---
+
+## Problem
+You are given a binary tree, where each node contains a value. Design an algorithm to print all paths which sum to a given value
+
+## Algorithm
+- Use DFS search
+- Each time we visit a node, add it to a list (which indicates path traversed)
+- Now for every node check if the list beginning at current node sums up to the given value
+- If it does then print the path which satisfies this
+
+## Code
+{% highlight cpp %}
+
+void traverseTreeInDFSOrder(TreeNode root, int sum){
+	std::stack<TreeNode> s;
+	std::vector<TreeNode> l;
+	enum state {visited, visiting, unvisited};
+	
+	// initialize tree with 'unvisited'
+	
+	// traverse
+	root.state = visiting;
+	s.push(root);
+	l.push_back(root);
+	checkSum(l, sum);
+	while(!s.empty()) {
+		TreeNode n = s.pop();
+		if(n.left() != NULL) {
+			n.left().state = visiting;
+			s.push(n.left());
+			l.push_back(n.left());	
+			checkSum(l, sum);		
+		}
+		if(n.right() != NULL) {
+			n.right().state = visiting;
+			s.push(n.right());
+			l.push_back(n.right());
+			checkSum(l, sum);
+		}
+		n.state = visited;
+	}
+}
+
+void checkSum(std::vector<TreeNode> l, int sum){
+	if(l.size == 0) return;
+	
+	int tempSum = 0;
+	for(int i=l.size; i>0 ; i--) {
+		tempSum+=l[i].value();
+		if(tempSum == sum) { // found path, print it
+			for(int i=l.size; i>0 ; i--) std::cout << l[i].value() << std::endl;
+		}
+	}
+}
+
+{% endhighlight %}
+
+## Time complexity
+O(nlogn) At every step, we are doing logn amount of work, so for n nodes its nlogn.
