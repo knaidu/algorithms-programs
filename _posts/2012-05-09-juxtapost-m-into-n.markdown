@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: insert m bits into n
 categories: bits careercup
 ---
