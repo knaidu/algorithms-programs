@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find the kth largest element in a row and column martix.
-categories: matrix tricky
+categories: matrix tricky careercup.com
 ---
 
 ## Problem 
