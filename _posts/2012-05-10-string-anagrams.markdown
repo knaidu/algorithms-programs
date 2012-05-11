@@ -2,6 +2,7 @@
 layout: post
 title: How would you find out if two strings are anagrams or not
 categories: strings 
+---
 
 ## Problem
 Write a method to figure out if two strings are anagrams or not
