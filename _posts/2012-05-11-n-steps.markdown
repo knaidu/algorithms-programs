@@ -1,0 +1,32 @@
+---
+layout: post
+title: How many ways of reaching nth step
+categories: recursion dp careercup
+---
+
+## Problem
+Given that a boy can jump 1 or 2 or 3 steps at a time, find out number of ways he can reach nth step
+
+## Algorithm
+- Think top down
+- The number of ways he can reach n-1, n-2 and n-3
+
+## Code
+{% highlight cpp %}
+
+int countSteps(int n, std::map<int> m) {
+	int steps;
+	if(m.find(n) != 0) return m.find(n);
+	if(n<0) return 0;
+	if(n == 0) return 1;
+	else {
+		steps = countSteps(n-1, m) + count (n-2, map) + count (n-3, map);
+	}
+	m.insert(steps);
+	return steps;
+}
+
+{% endhighlight %}
+
+## Time complexity
+O(n), since we do a lookup when a step value might already have been calculated.

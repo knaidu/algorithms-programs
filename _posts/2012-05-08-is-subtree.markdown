@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Find of t2 is a subtree of t1
+title: Find if t2 is a subtree of t1
 categories: trees recursion careercup
 ---
 
