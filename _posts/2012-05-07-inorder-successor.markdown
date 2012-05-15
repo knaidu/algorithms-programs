@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find in-order successor in a BST
-categories: trees careercup
+categories: trees ctci
 ---
 
 ## Problem

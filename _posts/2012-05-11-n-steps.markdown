@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How many ways of reaching nth step
-categories: recursion dp careercup
+categories: recursion dp ctci
 ---
 
 ## Problem

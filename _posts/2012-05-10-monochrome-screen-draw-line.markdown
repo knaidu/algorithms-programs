@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Draw horizontal line on a monochrome screen
-categories: bits hard careercup
+categories: bits hard ctci
 ---
 
 ## Problem

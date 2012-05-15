@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check if tree is a BST
-categories: trees recursion careercup
+categories: trees recursion ctci
 ---
 
 ## Problem

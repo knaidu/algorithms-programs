@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implement 3 stacks, using a single array
-categories: arrays stacks careercup
+categories: arrays stacks ctci
 ---
 
 ## Problem

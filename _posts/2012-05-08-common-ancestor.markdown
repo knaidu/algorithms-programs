@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find common ancestor in a tree, without links to parents
-categories: trees hard recursion careercup
+categories: trees hard recursion ctci
 ---
 
 ## Problem

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find if path exists form one node to another
-categories: graphs trees careercup
+categories: graphs trees ctci
 ---
 
 ## Problem

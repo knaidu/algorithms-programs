@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create linked list form tree for each level
-categories: trees linked-list careercup
+categories: trees linked-list ctci
 ---
 
 ## Problem

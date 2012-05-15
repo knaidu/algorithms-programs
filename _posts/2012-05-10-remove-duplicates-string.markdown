@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remove duplicates from string without additional buffer
-categories: strings careercup.com
+categories: strings careercup
 ---
 
 ## Problem

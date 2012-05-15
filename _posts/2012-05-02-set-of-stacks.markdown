@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Set of stacks, like in real world
-categories: stacks careercup
+categories: stacks ctci
 ---
 
 ## Problem

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swap odd and even bits in an integer
-categories: bits careercup
+categories: bits ctci
 ---
 
 ## Problem

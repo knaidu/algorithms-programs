@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Convert a decimal fraction into binary
-categories: bits tricky careercup
+categories: bits tricky ctci
 ---
 
 ## Problem

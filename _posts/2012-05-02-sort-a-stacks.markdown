@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sort a stack without using an array
-categories: stacks sorting arrays careercup
+categories: stacks sorting arrays ctci
 ---
 
 ## Program

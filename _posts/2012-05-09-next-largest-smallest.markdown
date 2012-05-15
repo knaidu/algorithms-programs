@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find the next smallest and largest number with same number of 1s
-categories: bits tricky careercup
+categories: bits tricky ctci
 ---
 
 ## Problem

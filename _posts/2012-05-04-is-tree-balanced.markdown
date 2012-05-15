@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check if tree is balanced
-categories: trees graphs recursion careercup
+categories: trees graphs recursion ctci
 ---
 
 ## Problem

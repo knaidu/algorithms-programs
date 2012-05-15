@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design an animal shelter
-categories: stacks queues linked-list design careercup
+categories: stacks queues linked-list design ctci
 ---
 
 ## Problem

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check for string rotation, given isSubstring()
-categories: strings tricky careercup
+categories: strings tricky ctci
 ---
 
 ## Problem

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implement insertion sort
-categories: sorting arrays careercup
+categories: sorting arrays ctci
 ---
 
 ## Problem

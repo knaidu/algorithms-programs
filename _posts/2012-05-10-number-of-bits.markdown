@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Count number of bits to convert A to B
-categories: bits careercup
+categories: bits ctci
 ---
 
 ## Problem

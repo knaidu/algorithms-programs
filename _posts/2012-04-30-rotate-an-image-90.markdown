@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rotate an image by 90 degrees
-categories: arrays matrix careercup
+categories: arrays matrix ctci
 ---
 
 ## Problem

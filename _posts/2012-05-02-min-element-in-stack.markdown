@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find min element in stack in O(1)
-categories: stacks careercup
+categories: stacks ctci
 ---
 
 ## Problem

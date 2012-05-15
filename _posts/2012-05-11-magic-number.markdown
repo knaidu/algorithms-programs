@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find magic number in array, where a[i]=i
-categories: recursion dp careercup
+categories: recursion dp ctci
 ---
 
 ## Problem

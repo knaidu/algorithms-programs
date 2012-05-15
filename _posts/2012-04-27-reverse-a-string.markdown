@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reverse a string
-categories: strings careercup
+categories: strings ctci
 ---
 
 ## Problem 

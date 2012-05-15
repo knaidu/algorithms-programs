@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robot tour in grid
-categories: recursion dp hard careercup
+categories: recursion dp hard ctci
 ---
 
 ## Problem

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: insert m bits into n
-categories: bits careercup
+categories: bits ctci
 ---
 
 ## Problem

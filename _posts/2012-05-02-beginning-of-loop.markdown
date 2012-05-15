@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Find beginning of loop in a linked list
-categories: linked-list careercup tricky
+categories: linked-list ctci tricky
 ---
 
 ## Problem

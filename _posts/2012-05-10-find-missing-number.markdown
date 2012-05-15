@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find the missing number, given access only 1 bit at a time
-categories: bits hard careercup
+categories: bits hard ctci
 ---
 
 ## Problem

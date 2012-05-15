@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create a balanced binary tree from a sorted array
-categories: trees recursion careercup 
+categories: trees recursion ctci 
 ---
 
 ## Problem

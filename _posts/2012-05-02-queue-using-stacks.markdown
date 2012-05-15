@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implement a queue, using stack
-categories: queues stacks tricky careercup
+categories: queues stacks tricky ctci
 ---
 
 ## Problem

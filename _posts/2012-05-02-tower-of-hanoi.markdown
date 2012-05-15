@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tower of Hanoi
-categories: stacks recursion careercup
+categories: stacks recursion ctci
 ---
 
 ## Problem

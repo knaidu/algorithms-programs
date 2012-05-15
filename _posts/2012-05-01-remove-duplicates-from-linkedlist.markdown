@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remove duplicates from a linked list
-categories: linked-list careercup
+categories: linked-list ctci
 ---
 
 ## Problem

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Determine if a string has all unique characters
-categories: strings careercup
+categories: strings ctci
 ---
 
 ## Problem
