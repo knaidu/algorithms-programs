@@ -22,6 +22,7 @@ Expand around center solution
 - One property exhibited by a palindrome string is, the value of lengths array on the right of the current center is the same or grater than the values on the left of current center.
 - Also, this means we need not look at all possible centers, we can jump to search the next unknown center length.
 - O(n)
+- [Link to solution](http://www.akalin.cx/longest-palindrome-linear-time)
 
 ## Code
 {% highlight cpp %}
