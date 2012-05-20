@@ -46,7 +46,7 @@ int findLongestPalindrome(std::string str, std::string& palindrome) {
 	return 1;
 }
 
-{% enghighlight %}
+{% endhighlight %}
 
 ## Time complexity
 Linear time for computing longest palindrome, since suffix tree is preprocessed.
