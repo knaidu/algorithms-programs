@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find the longest palindrome in a string
-categories: careercup string hard
+categories: careercup strings hard
 ---
 
 ## Problem
