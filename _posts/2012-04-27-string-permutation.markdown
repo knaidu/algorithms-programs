@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check if a string is a permutation of another
+title: Check if a string is a permutation of another OR Anagrams
 categories: strings ctci
 ---
 
