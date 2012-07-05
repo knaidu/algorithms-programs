@@ -22,8 +22,13 @@ int texQuotes(std::string& str, std::string& result){
 	
 	for(int i=0; i < str.size(); i++){
 		if(comapre(str[i], "\"") {
-			if(openingQuote) result.append("``"); // ``
-			else result.append("''"); // ''
+			if(openingQuote) {
+				result.append("``"); // ``
+				openingQuote = 0;
+			}
+			else {
+				result.append("''"); // ''
+				openingQuote = 1;
 		}
 		else result.append(str[i]);
 	}
