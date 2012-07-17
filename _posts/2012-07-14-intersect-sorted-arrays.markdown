@@ -141,7 +141,7 @@ int main(){
 	}
 }
 
-{% endighlight %}
+{% endhighlight %}
 
 ## Time complexity
 - O(n + m), each element is seen once in each array during merge.
