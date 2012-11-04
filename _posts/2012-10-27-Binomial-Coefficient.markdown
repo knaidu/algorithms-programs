@@ -75,6 +75,6 @@ int main() {
 
 {% endhighlight %}
 
-## Time complexity
+## Time complexity   
 
 - Since we are building a matrix and using 2 nested for loops, its (n^2) 
