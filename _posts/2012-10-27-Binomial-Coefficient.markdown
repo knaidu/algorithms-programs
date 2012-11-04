@@ -77,4 +77,4 @@ int main() {
 
 ## Time complexity
 
-- Since we arr building a matrix and usign 2 nested for loops, its (n^2) 
+- Since we are building a matrix and using 2 nested for loops, its (n^2) 
