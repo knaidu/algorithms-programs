@@ -77,7 +77,6 @@ void Cache::set(int key, int value) {
 
 ## Time complexity
 
-O(n^2)
+To find an element in the cache O(1) lookup.
 
-For every element in the array we compare against every other element, we have 2 nested for loops. 
-
+To add an element into the cache O(1) to insert into both lists and maybe delete from the lists if cache is full
