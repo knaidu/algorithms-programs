@@ -4,6 +4,7 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 .name a {
+  position: fixed;
   padding-left: 30px;
   font-weight: bold;
   color: #777777;
@@ -18,7 +19,7 @@ a {
 .sidebar {
   position: fixed;
   width: inherit;
-  margin: 0;
+  margin: 10;
   padding: 25px;
   font-family: "Palatino Linotype", sans-serif; }
   .sidebar a {
