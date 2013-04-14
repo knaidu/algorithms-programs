@@ -37,7 +37,7 @@ bool substringExists(string& str, string& substr) {
 	return FALSE;
 }
 
-{% end highlight %}
+{% endhighlight %}
 
 ## Time complexity
 
