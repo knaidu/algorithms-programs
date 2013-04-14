@@ -69,7 +69,7 @@ void generateWords(vector<vector<char>>& board, vecotr<string>& words, string& c
 	// ..
 } 
 
-{% end highlight %}
+{% endhighlight %}
 
 ## Time complexity
 
