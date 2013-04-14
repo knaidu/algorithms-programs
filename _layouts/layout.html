@@ -27,13 +27,11 @@
 
 <body>
 	<section class="name">
-	<a href="/algorithms-programs">
-		
+	 <a href="/algorithms-programs">
   		<span id="holman">
 	      Algorithms | Programs [ {{ site.posts | size }} ]
-	    </span>
-		
-	</a>
+	    </span>	
+	 </a>
 	</section>
   
   <section class="sidebar">
@@ -41,13 +39,12 @@
       <ul>
         {% for category in site.categories %}
           <li>
-            <a href="/algorithms-programs/posts/category-test/#{{ category | first }}">{{ category | first }}</a><br><br>
+            <a href="/algorithms-programs/posts/category-test/#{{ category | first }}">{{ category | first }}</a>
           </li>
+          <br><br>
         {% endfor %}
       </ul>
     </section>
-    
-    
   </section>
 
   {{ content }}
