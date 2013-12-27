@@ -26,25 +26,6 @@
 </head>
 
 <body>
-	<section class="name">
-	 <a href="/algorithms-programs">
-  		<span id="holman">
-	      Algorithms | Programs [ {{ site.posts | size }} ]
-	    </span>	
-	 </a>
-	</section>
-  
-  <section class="sidebar">
-    <section class="sections">
-      <ul>
-        {% for category in site.categories %}
-          <li>
-            <a href="/algorithms-programs/posts/category-test/#{{ category | first }}">{{ category | first }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </section>
-  </section>
 
   {{ content }}
 
