@@ -131,7 +131,7 @@ a {
   // h1-h4
   @each $number in 1,2,3,4 {
     h#{$number} {
-      color: #333;
+      color: #e70800;
       font-family: $headline;
       font-weight: 400;
       border-bottom: 1px solid #ccc;
