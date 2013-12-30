@@ -134,23 +134,24 @@ a {
       color: #e70800;
       font-family: $headline;
       font-weight: 400;
-      border-bottom: 1px solid #ccc;
     }
 
     h#{$number} a {
-      color: #111;
+      color: #e70800;
       text-decoration: none;
     }
   }
 
   h1 {
-    font-size: 36px;
+    font-size: 40px;
     margin: 18px 0 5px 0;
+    border-bottom: 1px solid #ccc;
   }
 
   h2 {
     font-size: 30px;
     margin-bottom: 15px;
+    border-bottom: 1px solid #ccc;
   }
 
   h3 {
