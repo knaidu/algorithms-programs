@@ -87,13 +87,6 @@ a {
   .content h1 a {
     color: #e70800;
     text-decoration: none; }
-  .content h1 span {
-    display: inline-block;
-    margin: 0 0 0 0;
-    color: #444;
-    font-size: 20px;
-    letter-spacing: 3px;
-    text-transform: uppercase; }
   .content h2 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -101,13 +94,6 @@ a {
   .content h2 a {
     color: #e70800;
     text-decoration: none; }
-  .content h2 span {
-    display: inline-block;
-    margin: 0 0 0 0;
-    color: #444;
-    font-size: 20px;
-    letter-spacing: 3px;
-    text-transform: uppercase; }
   .content h3 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -115,13 +101,6 @@ a {
   .content h3 a {
     color: #e70800;
     text-decoration: none; }
-  .content h3 span {
-    display: inline-block;
-    margin: 0 0 0 0;
-    color: #444;
-    font-size: 20px;
-    letter-spacing: 3px;
-    text-transform: uppercase; }
   .content h4 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -129,16 +108,16 @@ a {
   .content h4 a {
     color: #e70800;
     text-decoration: none; }
-  .content h4 span {
-    display: inline-block;
-    margin: 0 0 0 0;
-    color: #444;
-    font-size: 20px;
-    letter-spacing: 3px;
-    text-transform: uppercase; }
   .content h1 {
     font-size: 64px;
     margin: 18px 0 0 0; }
+    .content h1 span {
+      display: inline-block;
+      margin: 0 0 0 0;
+      color: #444;
+      font-size: 22px;
+      letter-spacing: 3px;
+      text-transform: uppercase; }
   .content h2 {
     font-size: 30px;
     margin-bottom: 15px;
