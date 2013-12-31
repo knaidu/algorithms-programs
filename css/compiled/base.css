@@ -91,7 +91,8 @@ a {
     color: #444;
     font-size: 16px;
     letter-spacing: 3px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin: 0 0 5px 0; }
   .content h2 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -103,7 +104,8 @@ a {
     color: #444;
     font-size: 16px;
     letter-spacing: 3px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin: 0 0 5px 0; }
   .content h3 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -115,7 +117,8 @@ a {
     color: #444;
     font-size: 16px;
     letter-spacing: 3px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin: 0 0 5px 0; }
   .content h4 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -127,10 +130,11 @@ a {
     color: #444;
     font-size: 16px;
     letter-spacing: 3px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin: 0 0 5px 0; }
   .content h1 {
     font-size: 64px;
-    margin: 18px 0 5px 0;
+    margin: 18px 0 0 0;
     border-bottom: 1px solid #ccc; }
   .content h2 {
     font-size: 30px;
