@@ -91,10 +91,9 @@ a {
     display: inline-block;
     margin: 0 0 0 0;
     color: #444;
-    font-size: 26px;
+    font-size: 20px;
     letter-spacing: 3px;
-    text-transform: uppercase;
-    margin: 0 0 0 0; }
+    text-transform: uppercase; }
   .content h2 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -106,10 +105,9 @@ a {
     display: inline-block;
     margin: 0 0 0 0;
     color: #444;
-    font-size: 26px;
+    font-size: 20px;
     letter-spacing: 3px;
-    text-transform: uppercase;
-    margin: 0 0 0 0; }
+    text-transform: uppercase; }
   .content h3 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -121,10 +119,9 @@ a {
     display: inline-block;
     margin: 0 0 0 0;
     color: #444;
-    font-size: 26px;
+    font-size: 20px;
     letter-spacing: 3px;
-    text-transform: uppercase;
-    margin: 0 0 0 0; }
+    text-transform: uppercase; }
   .content h4 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -136,14 +133,12 @@ a {
     display: inline-block;
     margin: 0 0 0 0;
     color: #444;
-    font-size: 26px;
+    font-size: 20px;
     letter-spacing: 3px;
-    text-transform: uppercase;
-    margin: 0 0 0 0; }
+    text-transform: uppercase; }
   .content h1 {
     font-size: 64px;
-    margin: 18px 0 0 0;
-    border-bottom: 1px solid #ccc; }
+    margin: 18px 0 0 0; }
   .content h2 {
     font-size: 30px;
     margin-bottom: 15px;
