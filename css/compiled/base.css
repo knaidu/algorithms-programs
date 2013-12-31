@@ -83,41 +83,39 @@ a {
   .content h1 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
-    font-weight: 400;
-    border-bottom: 1px solid #ccc; }
+    font-weight: 400; }
   .content h1 a {
-    color: #111;
+    color: #e70800;
     text-decoration: none; }
   .content h2 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
-    font-weight: 400;
-    border-bottom: 1px solid #ccc; }
+    font-weight: 400; }
   .content h2 a {
-    color: #111;
+    color: #e70800;
     text-decoration: none; }
   .content h3 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
-    font-weight: 400;
-    border-bottom: 1px solid #ccc; }
+    font-weight: 400; }
   .content h3 a {
-    color: #111;
+    color: #e70800;
     text-decoration: none; }
   .content h4 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
-    font-weight: 400;
-    border-bottom: 1px solid #ccc; }
+    font-weight: 400; }
   .content h4 a {
-    color: #111;
+    color: #e70800;
     text-decoration: none; }
   .content h1 {
-    font-size: 36px;
-    margin: 18px 0 5px 0; }
+    font-size: 40px;
+    margin: 18px 0 5px 0;
+    border-bottom: 1px solid #ccc; }
   .content h2 {
     font-size: 30px;
-    margin-bottom: 15px; }
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ccc; }
   .content h3 {
     color: #777;
     font-size: 25px;
