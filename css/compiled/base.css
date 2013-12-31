@@ -88,11 +88,13 @@ a {
     color: #e70800;
     text-decoration: none; }
   .content h1 span {
+    display: block;
+    margin: 10px 0 0 0;
     color: #444;
-    font-size: 36px;
+    font-size: 26px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    margin: 0 0 5px 0; }
+    margin: 0 0 0 0; }
   .content h2 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -101,11 +103,13 @@ a {
     color: #e70800;
     text-decoration: none; }
   .content h2 span {
+    display: block;
+    margin: 10px 0 0 0;
     color: #444;
-    font-size: 36px;
+    font-size: 26px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    margin: 0 0 5px 0; }
+    margin: 0 0 0 0; }
   .content h3 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -114,11 +118,13 @@ a {
     color: #e70800;
     text-decoration: none; }
   .content h3 span {
+    display: block;
+    margin: 10px 0 0 0;
     color: #444;
-    font-size: 36px;
+    font-size: 26px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    margin: 0 0 5px 0; }
+    margin: 0 0 0 0; }
   .content h4 {
     color: #e70800;
     font-family: "Sorts Mill Goudy", "Palatino Linotype", sans-serif;
@@ -127,11 +133,13 @@ a {
     color: #e70800;
     text-decoration: none; }
   .content h4 span {
+    display: block;
+    margin: 10px 0 0 0;
     color: #444;
-    font-size: 36px;
+    font-size: 26px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    margin: 0 0 5px 0; }
+    margin: 0 0 0 0; }
   .content h1 {
     font-size: 64px;
     margin: 18px 0 0 0;
