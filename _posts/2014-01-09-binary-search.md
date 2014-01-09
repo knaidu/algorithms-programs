@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Binary Search - Iterative and recursive
 ---
 
-## Problem
-
+## Binary Search - Iterative and recursive
 Given an array containing integers in sorted order, perform binary search on it.
 
 ## Algorithm
