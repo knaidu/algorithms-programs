@@ -30,4 +30,3 @@ Given an array containing integers in sorted order, perform binary search on it.
 
 - O(log n)
 - At each stage in the search we are narrowing the search space by half
-
