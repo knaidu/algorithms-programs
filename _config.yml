@@ -1,6 +1,6 @@
 markdown: rdiscount
 pygments: true
-permalink: algorithms-programs/posts/:title
+permalink: posts/:title
 auto: true
 rdiscount:
   extensions: [smart]
